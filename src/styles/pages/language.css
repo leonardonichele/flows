@@ -1,0 +1,45 @@
+#page-landing {
+    margin:auto;
+    position:relative;
+}
+
+#page-landing img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 140px;
+}
+
+#page-landing h1, h2 {
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    margin: 10px;
+}
+
+#page-landing a {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: rgba(11, 8, 161, 1);
+    padding: 10px;
+    text-align: center;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+    margin: 10px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+#page-landing p {
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+}

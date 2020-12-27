@@ -1,0 +1,94 @@
+
+#page-eng .mid h1, h2 {
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 48px;
+}
+
+#page-eng .mid {
+    padding: 50px;
+    background-color: rgba(11, 8, 161, 1);
+}
+
+#page-eng .box {
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.mid #about p {
+    padding: 25px;
+    background-color: rgba(31, 31, 53, 1);
+    border-radius: 28px;
+    border-style: solid;
+    border-color: black;
+    width: 300px;
+    height: 300px;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: lighter;
+    font-size: 25px;
+}
+
+.mid #dev {
+    padding: 25px;
+    background-color: rgba(31, 31, 53, 1);
+    border-radius: 28px;
+    border-style: solid;
+    border-color: black;
+    width: 300px;
+    height: 300px;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.mid #dev h1 {
+    font-size: 30px;
+    margin: 10px;
+}
+
+.mid #dev h3 {
+    font-size: 22px;
+    font-weight: inherit;
+    margin: 3px;
+}
+
+.mid #dev p {
+    margin: 2px;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.mid #design {
+    padding: 25px;
+    background-color: rgba(31, 31, 53, 1);
+    border-radius: 28px;
+    border-style: solid;
+    border-color: black;
+    width: 300px;
+    height: 300px;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.mid #design h1 {
+    font-size: 30px;
+    margin: 10px;
+}
+
+.mid #design h3 {
+    font-weight: inherit;
+    font-size: 22px;
+    margin: 3px;
+}
+
+.mid #design p {
+    margin: 2px;
+    font-size: 20px;
+    font-weight: lighter;
+}
