@@ -167,7 +167,7 @@
 
 /* RESPONSIVIDADE */
 
-@media (min-width: 400px) and (max-width: 600px) {
+@media (min-width: 100px) and (max-width: 650px) {
 
     .mid #content {
         width: 100%;
