@@ -70,7 +70,7 @@ function Pt() {
           <h1>Redes Sociais</h1>
           <br></br>
           <a href="https://www.linkedin.com/in/leonardonichele/"><img src={LinkedIn} alt="linkedin"></img></a>
-          <a href="https://www.behance.com/leonardonichele/"><img src={Behance} alt="behance"></img></a>
+          <a href="https://www.behance.net/leonardonichele/"><img src={Behance} alt="behance"></img></a>
           <a href="https://www.github.com/leonardonichele/"><img src={Github} alt="github"></img></a>
         </div>
       </section>
