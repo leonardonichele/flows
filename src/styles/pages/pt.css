@@ -179,7 +179,16 @@
     }
    
     #page-eng .start img {
-        width: 70%;
-        height: 70%;
+        width: 60%;
+        height: 60%;
+    }
+
+    .mid #content h1 {
+        font-size: 28px;
+    }
+
+    #content .item {
+        width: 300px;
+        height: 350px;
     }
 }
