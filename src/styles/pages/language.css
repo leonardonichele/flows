@@ -3,18 +3,18 @@
     position:relative;
 }
 
-#page-landing img {
-    display: block;
-    margin: 0 auto;
-    margin-top: 140px;
-}
-
 #page-landing h1, h2 {
     color: white;
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-weight: lighter;
     margin: 10px;
+}
+
+#page-landing img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 140px;
 }
 
 #page-landing a {

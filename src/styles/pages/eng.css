@@ -3,19 +3,19 @@
     position:relative;
 }
 
-#page-eng .start img {
-    display: block;
-    margin: 0 auto;
-    margin-top: 155px;
-    height: 120px;
-}
-
 #page-eng .start h1, h2 {
     color: white;
     text-align: center;
     font-family: 'Roboto', sans-serif;
     font-weight: normal;
     font-size: 42px;
+}
+
+#page-eng .start img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 155px;
+    height: 120px;
 }
 
 #page-eng .start p {
@@ -46,20 +46,20 @@
 }
 
 /* MID */
-#page-eng .mid h1, h2 {
-    color: white;
-    text-align: center;
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
-    font-size: 48px;
-}
-
 #page-eng .mid {
     padding: 50px;
     background-color: rgba(11, 8, 161, 1);
     margin-top: 10px;
     text-align: center;
     align-items: center;
+}
+
+#page-eng .mid h1, h2 {
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 48px;
 }
 
 #content {
@@ -69,11 +69,6 @@
     align-items: center;
     justify-content: space-between;
     margin-top: 20px;
-}
-
-#content img {
-    height: 155px;
-    margin: 2px;
 }
 
 #content .item {
@@ -108,8 +103,12 @@
     font-weight: lighter;
 }
 
-/* END */
+#content img {
+    height: 155px;
+    margin: 2px;
+}
 
+/* END */
 #content-end h1{
     font-size: 40px;
     font-weight: lighter;
@@ -149,6 +148,14 @@
     margin-bottom: 15px;
 }
 
+#content-end .endframe {
+    padding: 25px;
+    color: white;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    flex: 0 0 auto;
+}
+
 .markdown h1{
     color: white;
     text-align: center;
@@ -157,14 +164,6 @@
     font-size: 20px;
     margin-bottom: 20px;
     opacity: 80%;
-}
-
-#content-end .endframe {
-    padding: 25px;
-    color: white;
-    text-align: center;
-    font-family: 'Roboto', sans-serif;
-    flex: 0 0 auto;
 }
 
 /* RESPONSIVIDADE */
