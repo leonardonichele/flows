@@ -44,7 +44,7 @@
     font-weight: lighter;
 }
 
-@media (min-width: 300px) and (max-width: 650px) {
+@media (min-width: 100px) and (max-width: 700px) {
 
     #page-landing img {
         width: 50%;

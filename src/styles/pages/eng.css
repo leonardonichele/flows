@@ -167,8 +167,8 @@
 
 /* RESPONSIVIDADE */
 
-@media (min-width: 100px) and (max-width: 600px) {
-
+@media (min-width: 300px) and (max-width: 600px) {
+    
     .mid #content {
         width: 100%;
         height: 1200px;
@@ -188,7 +188,7 @@
     }
 
     #content .item {
-        width: 300px;
-        height: 360px;
+        width: 290px;
+        height: 330px;
     }
 }
