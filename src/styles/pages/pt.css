@@ -178,6 +178,10 @@
     .end #content-end {
         width: 100%;
     }
+
+    #page-eng .start h1 {
+        font-size: 30px;
+    }
    
     #page-eng .start img {
         width: 70%;
