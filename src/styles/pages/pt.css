@@ -183,4 +183,8 @@
         width: 70%;
         height: 70%;
     }
+
+    .mid #content h1 {
+        font-size: 28px;
+    }
 }
