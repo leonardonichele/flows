@@ -43,3 +43,11 @@
     font-family: 'Roboto', sans-serif;
     font-weight: lighter;
 }
+
+@media (min-width: 400px) and (max-width: 600px) {
+
+    #page-landing img {
+        width: 70%;
+    }
+    
+}
