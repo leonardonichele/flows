@@ -191,4 +191,8 @@
         width: 290px;
         height: 365px;
     }
+
+    .mid h1{
+        font-size: 38px;
+    }
 }
