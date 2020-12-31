@@ -192,6 +192,10 @@
         height: 365px;
     }
 
+    #content .item img {
+        margin: 0%;
+    }
+
     .mid h1{
         font-size: 18px;
     }
