@@ -35,7 +35,7 @@ function Eng() {
             </p>
           </div>
           <div className="item">
-            <h1>Front-End Developer</h1>
+            <h1>Developer</h1>
             <p>I like to code things from<br></br>scratch and bring to the life.</p>
             <br></br>
             <h3>Languages I speak</h3>
